@@ -7,7 +7,7 @@ style="border-radius: 50%" align="right"/>
 
 Background in marketing & copywriting. I think in systems, ship in production.
 
-📍 Paris, France &nbsp;|&nbsp; 🎓 Alyra "Développeur IA" (2025) &nbsp;|&nbsp; 💼 Freelance available **July 2025**
+📍 Paris, France &nbsp;|&nbsp; 🎓 Alyra "Développeur IA" (2025-2026) &nbsp;|&nbsp; 💼 Freelance available **July 2025**
 
 ---
 
@@ -88,6 +88,5 @@ Each project ships with monitoring, error handling, and real usage.
 
 ## 📬 Freelance missions (July 2025+)
 
-AI agents · LLM integration · Automation · ML pipelines
+AI agents · LLM integration · Automation · ML pipelines - ML Ops
 
-→ contact@adsdecision.com
