@@ -1,7 +1,9 @@
-<img src="assets/photo_djamali.jpg" width="120" 
-style="border-radius: 50%" align="right"/>
+
 
 # Djamali Ali Baha Bakar
+
+<img src="assets/photo_djamali.jpg" width="120" 
+style="border-radius: 50%" align="right"/>
 
 **AI Builder & Developer** — I build autonomous AI agents and production-ready products.
 
