@@ -15,7 +15,7 @@ Background in marketing & copywriting. I think in systems, ship in production.
 
 ## 🤖 AI Agents
 
-### [Agent Missions](https://github.com/djamaliAliBahaBakar/agent-missions-WTTJ)
+### [Agent Missions](https://github.com/djamaliAliBahaBakar/agent-missions-wttj)
 Autonomous freelance mission hunter — scrapes job boards, filters with Claude, generates personalized cover letters, pauses for human validation via email links.
 
 **Stack**: LangGraph · Claude API · FastAPI · PostgresSaver · Apify · Resend · Supabase  
@@ -33,7 +33,7 @@ Scraper → Deduplicator → LLM Filter → Orchestrator
 
 ## 🛠️ SaaS Products
 
-### [AdsDecision](https://github.com/djamaliAliBahaBakar/ads-decision)
+### [AdsDecision](https://github.com/djamaliAliBahaBakar/ads-decision-copilot)
 Meta Ads decision support system. Tracks ad performance, suggests KILL/SCALE/HOLD actions based on custom rules, measures discipline with a Tiltmeter.
 
 > *"Ton meilleur créatif marche 2x mieux que ton pire. Trouve-le. Décide. Économise."*
