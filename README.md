@@ -15,7 +15,7 @@ Background in marketing & copywriting. I think in systems, ship in production.
 
 ## 🤖 AI Agents
 
-### [Agent Missions](https://github.com/djamaliAliBahaBakar/agent-missions)
+### [Agent Missions](https://github.com/djamaliAliBahaBakar/agent-missions-WTTJ)
 Autonomous freelance mission hunter — scrapes job boards, filters with Claude, generates personalized cover letters, pauses for human validation via email links.
 
 **Stack**: LangGraph · Claude API · FastAPI · PostgresSaver · Apify · Resend · Supabase  
