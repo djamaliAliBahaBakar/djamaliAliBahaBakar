@@ -44,7 +44,7 @@ Meta Ads decision support system. Tracks ad performance, suggests KILL/SCALE/HOL
 
 ## 📊 Machine Learning
 
-### EuroSAT Image Classification - MLOps Pipeline
+### [EuroSAT Image Classification - MLOps Pipeline](https://github.com/djamaliAliBahaBakar/eurosat-classification-mlops)
 
 Production-oriented computer vision pipeline for satellite image classification using EuroSAT and MobileNetV3Small.
 
