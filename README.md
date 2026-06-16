@@ -44,6 +44,19 @@ Meta Ads decision support system. Tracks ad performance, suggests KILL/SCALE/HOL
 
 ## 📊 Machine Learning
 
+### EuroSAT Image Classification - MLOps Pipeline
+
+Production-oriented computer vision pipeline for satellite image classification using EuroSAT and MobileNetV3Small.
+
+The project goes beyond notebook experimentation: it includes modular training, evaluation, single-image inference, FastAPI serving, Docker containerization, and GitHub Actions CI.
+
+Stack: Python · TensorFlow/Keras · MobileNetV3Small · FastAPI · Docker · GitHub Actions · YAML · scikit-learn
+
+ML Engineering: Transfer Learning · Fine-Tuning · Smoke Tests · REST Inference API · Containerized Serving · CI Pipeline
+
+Pipeline:
+Dataset → Preprocessing → MobileNetV3Small → Feature Extraction → Fine-Tuning → Evaluation → FastAPI → Docker → CI
+
 ### [Telco Churn Prediction](https://github.com/djamaliAliBahaBakar/telco-churn)
 End-to-end churn prediction pipeline on telecom customer data — EDA, feature engineering, model training and evaluation.
 
@@ -70,11 +83,13 @@ Notebooks from Alyra "Développeur IA" formation — neural networks, CNNs, trai
 ```python
 agents      = ["LangGraph", "Claude API", "LangSmith", "FastAPI"]
 scraping    = ["Apify"]
-ml          = ["Scikit-learn", "Pandas", "NumPy", "Jupyter"]
 backend     = ["Python", "Node.js", "PostgreSQL", "Supabase", "Prisma"]
 frontend    = ["Next.js", "TypeScript", "Tailwind", "Radix UI"]
-infra       = ["GitHub Actions", "Vercel", "Render"]
 monitoring  = ["LangSmith", "Resend"]
+ml          = ["TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "Jupyter"]
+mlops       = ["FastAPI", "Docker", "GitHub Actions", "YAML configs", "Smoke tests"]
+agents      = ["LangGraph", "Claude API", "LangSmith", "FastAPI"]
+infra       = ["Docker", "GitHub Actions", "Vercel", "Render"]
 ```
 
 ---
